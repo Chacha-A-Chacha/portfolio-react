@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/kelly-sikkema-o2TRWThve_I-unsplash.jpg";
+import image from "../images/uiux.png";
 
 const imageAltText = "art";
 
@@ -31,30 +31,31 @@ const imageAltText = "art";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "How to Build a Chatbot with Python and Rasa 🤖",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A step-by-step tutorial on how to create a conversational agent using Python, Rasa, and natural language processing techniques.",
+    url: "https://realpython.com/python-rasa-chatbot/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Software Testing for Beginners",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Learn the basics of software testing, such as unit testing, integration testing, and test automation. Discover the tools and frameworks that can help you write and run tests effectively.",
+    url: "https://www.edx.org/course/software-testing-fundamentals",
   },
   {
-    title: "My Resume Site",
+    title: "My Portfolio Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Showcase of my skills and projects as a software engineer. Built with React, Bootstrap, and Firebase. Includes a contact form and a blog section.",
+    url: "https://my-portfolio-site.com/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Git and GitHub for Beginners",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Video course to teach you the essentials of version control and collaboration with Git and GitHub. Learn how to create repositories, branches, commits, pull requests, and more.",
+    url: "https://www.udemy.com/course/git-and-github-for-beginners/",
   },
 ];
+
 
 const Portfolio = () => {
   return (

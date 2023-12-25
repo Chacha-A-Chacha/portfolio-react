@@ -16,7 +16,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/john-towner-JgOeRuGD_Y4-unsplash.jpg";
+import image from "../images/se.jpeg";
 
 const imageAltText = "background";
 
@@ -24,19 +24,22 @@ const imageAltText = "background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "Hello, world! I'm a software engineer who loves to code, create, and collaborate. I have been fascinated by the power of programming since I was a kid, and I enjoy building web applications that solve real-world problems. I have a strong background in HTML, CSS, JavaScript, React, Node.js, and MongoDB, and I'm always eager to learn new technologies and frameworks. Some of the projects that I'm proud of include a responsive e-commerce website, a social media platform, and a chatbot application. You can check them out on my GitHub page. When I'm not coding, I like to read books, play guitar, and travel the world. I'm looking for new opportunities to work with amazing people and create awesome products. If you are interested in working with me, please feel free to contact me. I'd love to hear from you!";
+  "Hello, world! I'm a software engineer who loves to code, create, and collaborate. I have been fascinated by the power of programming since I was a kid, and I enjoy building web applications that solve real-world problems. I have a strong background in HTML, CSS, JavaScript, React, Node.js, and MongoDB, and I'm always eager to learn new technologies and frameworks. Some of the projects that I'm proud of include a responsive e-commerce website, a social media platform, and a chatbot application. You can check them out on my GitHub page. When I'm not coding, I like to read books, play guitar, and travel the world.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Data structure and algorithms",
+  "Python, C, JavaScript, Go",
+  "Operating systems",
+  "Databases",
+  "Software development methodologies",
+  "Software testing and debugging",
+  "Software design and architecture",
+  "Communication",
+  "Teamwork",
 ];
 
 /**
@@ -45,7 +48,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I'm looking for new opportunities to work with amazing people and create awesome products. If you are interested in working with me, please feel free to contact me. I'd love to hear from you!";
 
 const About = () => {
   return (
