@@ -24,7 +24,7 @@ const imageAltText = "background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Hello, world! I'm a software engineer who loves to code, create, and collaborate. I have been fascinated by the power of programming since I was a kid, and I enjoy building web applications that solve real-world problems. I have a strong background in HTML, CSS, JavaScript, React, Node.js, and MongoDB, and I'm always eager to learn new technologies and frameworks. Some of the projects that I'm proud of include a responsive e-commerce website, a social media platform, and a chatbot application. You can check them out on my GitHub page. When I'm not coding, I like to read books, play guitar, and travel the world. I'm looking for new opportunities to work with amazing people and create awesome products. If you are interested in working with me, please feel free to contact me. I'd love to hear from you!";
 
 /**
  * List of some of skills or technologies you work on, are learning,
